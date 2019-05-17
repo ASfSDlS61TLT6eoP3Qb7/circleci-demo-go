@@ -5,3 +5,5 @@ This is an example application showcasing how to run Go on CircleCI 2.0.
 You can follow along with this project by reading the following doc: https://circleci.com/docs/2.0/language-go/
 
 TEST
+
+Gaan met die banaan
